@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋
+
+💬 Ask me about web things.. 
+
+🛠️ I'm working at the Public Radio Broadcaster in Sweden. any other ideas? 😉 
 
 <!--
 **Roog/roog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
