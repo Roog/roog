@@ -5,7 +5,7 @@
 🛠️ I'm working at the Public Radio Broadcaster in Sweden. Looking for jobs in Japan, please reach out on [LinkedIn](http://www.linkedin.com/in/rogersandholm) 😉 
 
 - [Steal my vintage terminal please](https://roog.github.io/js-terminal/)
-- [A vanilla javascript Calendar](https://roog.github.io/js-calendar/).
+- [A vanilla javascript Calendar](https://roog.github.io/js-calendar/)
 
 <!--
 **Roog/roog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
