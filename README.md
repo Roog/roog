@@ -2,7 +2,7 @@
 
 💬 Ask me about web things.. 
 
-🛠️ I'm working at the Public Radio Broadcaster in Sweden. Looking for jobs in Japan, please reach out on [LinkedIn](http://www.linkedin.com/in/rogersandholm) 😉 
+🛠️ I'm working at my own company Seqtalk, doing Media, Broadcasting and Tech Solutions, please reach out if you want to collaborate [LinkedIn](http://www.linkedin.com/in/rogersandholm) 😉 
 
 - [Steal my vintage terminal please](https://roog.github.io/js-terminal/)
 - [Simple javascript Calendar](https://roog.github.io/js-calendar/)
